@@ -1,0 +1,19 @@
+#img-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+#img-box img {
+    margin: 0.3125em;
+    width: 6.25em;
+}
+button {
+    margin-top: 0.625em;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 0.625em;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+}
